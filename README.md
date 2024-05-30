@@ -22,6 +22,7 @@
   
   - [教程](#-教程十分重要)
   - [一键部署](#-一键部署)
+  - [问题解答](#-问题解答)
   - [特色简介](#-特色简介)
   - [效果展示](#-效果展示)
   - [用户交流](#%EF%B8%8F-用户交流)
@@ -31,6 +32,7 @@
 
 > [!WARNING]
 > 查看 [**>>>快速教程<<<**](https://github.com/Harry-zklcdc/go-proxy-bingai/wiki)
+> 查看 [**>>>视频教程<<<**]([https://github.com/Harry-zklcdc/go-proxy-bingai/wiki](https://www.bilibili.com/video/BV1Dy41187dv/?spm_id_from=333.1007.tianma.8-4-30.click&vd_source=2f168aaed291bfaf9ee429b31a8815ed))
 
 ## 🚀 一键部署
 
@@ -67,6 +69,11 @@
 > #### CodeSandbox 部署
 >
 > [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-bingai-pass/tree/main?import=true)
+
+## 问题解答
+### > 网络问题
+> 对于国内域名网络延迟检查可以使用[![TIDOG](https://www.itdog.cn/ping/)
+> 如果域名不能使用可以更换一个顶级域名再重新测试。
 
 ## 🚧 特色简介
 
