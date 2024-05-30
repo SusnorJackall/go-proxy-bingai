@@ -32,7 +32,7 @@
 
 > [!WARNING]
 > 查看 [**>>>快速教程<<<**](https://github.com/Harry-zklcdc/go-proxy-bingai/wiki)
-> 查看 [**>>>视频教程<<<**]([https://github.com/Harry-zklcdc/go-proxy-bingai/wiki](https://www.bilibili.com/video/BV1Dy41187dv/?spm_id_from=333.1007.tianma.8-4-30.click&vd_source=2f168aaed291bfaf9ee429b31a8815ed))
+> 查看 [**>>>视频教程<<<**](https://www.bilibili.com/video/BV1Dy41187dv/?spm_id_from=333.1007.tianma.8-4-30.click&vd_source=2f168aaed291bfaf9ee429b31a8815ed)
 
 ## 🚀 一键部署
 
